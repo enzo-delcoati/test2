@@ -5,14 +5,18 @@ git status <--- ztells  difference with main repository from local.
 
 git add filename
 
-git commit filename
-git commit
+git commit "My changes did the following things..... " filename
 
 git push
 
 git pull
 
 NOTE THAT git status/add/commit/push/pull only work from within the directory of the project...
+
+
+ 
+
+
 
 
 
@@ -51,8 +55,6 @@ Changes to be committed:
 		
 
 
-git commit
-git push
 
 
 
